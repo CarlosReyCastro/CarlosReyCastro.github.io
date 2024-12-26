@@ -2,8 +2,11 @@ project:
   type: website
 
 website:
+  site-url: https://CarlosReyCastro.github.io # URL of the website
   title: "Home"
+  favicon: images/favicon.png
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  twitter-card: true # https://quarto.org/docs/websites/website-tools.html#twitter-card
   page-footer: "Made with ❤️ and Quarto"
   navbar:
     right:
@@ -12,5 +15,5 @@ website:
       
 format:
   html:
-    theme: [cosmo, styles.scss]
+    theme: [journal, styles.scss]
 

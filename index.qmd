@@ -1,25 +1,36 @@
 ---
-title: "Alicia"
-subtitle: "Data Scientist"
+title: "Carlos Rey-Castro"
+subtitle: "Environmental Physical Chemist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+image: images/profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
-  template: jolla
+  template: trestles
   links:
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-9286-4206
     - icon: github
-      text: Github
-      href: https://github.com
+      # text: GitHub
+      href: https://github.com/CarlosReyCastro
     - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      # text: LinkedIn
+      href: https://www.linkedin.com/in/carlos-rey-castro/
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.es/citations?user=_vPuaugAAAAJ&hl=en
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Carlos-Rey-Castro
+    - text: "{{< ai clarivate >}}"
+      href: https://www.webofscience.com/wos/author/record/E-9647-2010
+    - text: "{{< ai scopus >}}"
+      href: https://www.scopus.com/authid/detail.uri?authorId=6507354404
 ---
 
-A little bit about me and my life.
+A summary about my research and academic activity.
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+Ph.D. in Chemistry \| University of A Coruña, Spain \| July 2004
+
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+Full Professor in Physical Chemistry \| University of Lleida, Spain \| October 2021 - present
