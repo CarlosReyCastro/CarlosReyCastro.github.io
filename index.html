@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -71,8 +72,12 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Home - Carlos Rey-Castro">
 <meta property="og:description" content="Environmental Physical Chemist">
-<meta property="og:image" content="https://CarlosReyCastro.github.io/profile.jpg">
+<meta property="og:image" content="https://CarlosReyCastro.github.io/images/profile.jpg">
 <meta property="og:site_name" content="Home">
+<meta name="twitter:title" content="Home - Carlos Rey-Castro">
+<meta name="twitter:description" content="Environmental Physical Chemist">
+<meta name="twitter:image" content="https://CarlosReyCastro.github.io/images/profile.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -109,31 +114,19 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla content">
-  <img src="profile.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-trestles content">
+  <div class="about-entity">
+    <img src="images/profile.jpg" class="about-image
+  rounded " style="width: 20em;">
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Carlos Rey-Castro</h1>
 <p class="subtitle lead">Environmental Physical Chemist</p>
 </div>
 <div class="quarto-title-meta">
   </div>
-</header><main class="content" id="quarto-document-content">
-<p>A little bit about me and my life.</p>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<p>University of XYZ, City | Location | Sept 20XX - June 20XX</p>
-</section>
-<section id="experience" class="level2">
-<h2 data-anchor-id="experience">Experience</h2>
-<p>Workplace | Job title | April 20XX - present</p>
-
-
-</section>
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
+</header>
+    <div class="about-links">
   <a href="https://orcid.org/0000-0002-9286-4206" class="about-link" rel="" target="">
      <span class="about-link-text"><i class="ai  ai-orcid" aria-label="orcid"></i></span>
   </a>
@@ -158,6 +151,20 @@ ul.task-list li input[type="checkbox"] {
      <span class="about-link-text"><i class="ai  ai-scopus" aria-label="scopus"></i></span>
   </a>
 </div>
+  </div>
+  <div class="about-contents"><main class="content" id="quarto-document-content">
+<p>A summary about my research and academic activity.</p>
+<section id="education" class="level2">
+<h2 data-anchor-id="education">Education</h2>
+<p>Ph.D.&nbsp;in Chemistry | University of A Coruña, Spain | July 2004</p>
+</section>
+<section id="experience" class="level2">
+<h2 data-anchor-id="experience">Experience</h2>
+<p>Full Professor in Physical Chemistry | University of Lleida, Spain | October 2021 - present</p>
+
+
+</section>
+</main></div>
 </div>
  <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -234,7 +241,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/CarlosReyCastro\.github\.io\/");
+      var filterRegex = new RegExp("https:\/\/CarlosReyCastro\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
