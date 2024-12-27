@@ -1,17 +1,18 @@
 ---
 title: "Carlos Rey-Castro"
-subtitle: "Environmental Physical Chemist"
+subtitle: "Environmental & Physical Chemist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: images/profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
+  image-shape: round 
   links:
     - text: "{{< ai orcid >}}"
       href: https://orcid.org/0000-0002-9286-4206
     - icon: github
       # text: GitHub
       href: https://github.com/CarlosReyCastro
-    - icon: linkedin
+    - icon: linkedin 
       # text: LinkedIn
       href: https://www.linkedin.com/in/carlos-rey-castro/
     - text: "{{< ai google-scholar >}}"
@@ -24,13 +25,25 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.scopus.com/authid/detail.uri?authorId=6507354404
 ---
 
+{{< lipsum 1 >}}
+
 A summary about my research and academic activity.
 
 ## Education
 
-Ph.D. in Chemistry \| University of A Coruña, Spain \| July 2004
+University of A Coruña, Spain:
 
+-   M.Sc. in Chemistry \| June 1999
+-   Ph.D. in Chemistry \| July 2004
 
 ## Experience
 
-Full Professor in Physical Chemistry \| University of Lleida, Spain \| October 2021 - present
+CSIC Institute of Materials Science, Barcelona, Spain:
+
+-   Postdoc researcher \| April 2005 - August 2006
+
+University of Lleida, Spain:
+
+-   Lecturer \| Sept 2006 - July 2011
+-   Associate Professor \| Aug 2011 - Sept 2021
+-   Full Professor \| Oct 2021 - present

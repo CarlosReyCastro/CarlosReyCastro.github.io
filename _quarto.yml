@@ -15,5 +15,6 @@ website:
       
 format:
   html:
+    backgroundcolor: "#f2f2f2"
     theme: [journal, styles.scss]
 
