@@ -5,7 +5,7 @@ subtitle: "Environmental & Physical Chemist"
 image: images/profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
-  image-shape: round 
+  image-shape: round
   links:
     - text: "{{< ai orcid >}}"
       href: https://orcid.org/0000-0002-9286-4206
