@@ -7,14 +7,23 @@ website:
   favicon: images/favicon.png
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   twitter-card: true # https://quarto.org/docs/websites/website-tools.html#twitter-card
-  page-footer: "Made with ❤️ and Quarto"
-  navbar:
+  page-footer: "Made with ❤ and Quarto"
+  navbar: 
     right:
       - text: Home
         href: index.qmd
+      - CV.qmd
       
 format:
   html:
     backgroundcolor: "#ffffff"
-    theme: [journal, styles.scss]
+    fontcolor: "darkslategray"
+    linkcolor: "rgb(221, 112, 105)"
+    mainfont: "Source Sans Pro, sans-serif"
+#    mainfont: "Gill Sans, sans-serif"
+    fontsize: 19px
+    theme: 
+      light: [journal, styles.scss]
+
+    
 

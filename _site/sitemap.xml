@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://CarlosReyCastro.github.io/blog/second-post/index.html</loc>
-    <lastmod>2024-12-26T13:13:32.263Z</lastmod>
+    <loc>https://CarlosReyCastro.github.io/CV.html</loc>
+    <lastmod>2025-01-01T21:17:41.123Z</lastmod>
   </url>
   <url>
-    <loc>https://CarlosReyCastro.github.io/blog/third-post/index.html</loc>
-    <lastmod>2024-12-26T13:13:32.264Z</lastmod>
+    <loc>https://CarlosReyCastro.github.io/blog/first-post/index.html</loc>
+    <lastmod>2024-12-26T13:13:32.256Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CarlosReyCastro.github.io/index.html</loc>
+    <lastmod>2024-12-30T09:57:20.211Z</lastmod>
   </url>
   <url>
     <loc>https://CarlosReyCastro.github.io/projects/index.html</loc>
     <lastmod>2024-12-26T13:13:32.270Z</lastmod>
   </url>
   <url>
-    <loc>https://CarlosReyCastro.github.io/index.html</loc>
-    <lastmod>2024-12-29T10:17:05.731Z</lastmod>
+    <loc>https://CarlosReyCastro.github.io/blog/third-post/index.html</loc>
+    <lastmod>2024-12-26T13:13:32.264Z</lastmod>
   </url>
   <url>
-    <loc>https://CarlosReyCastro.github.io/blog/first-post/index.html</loc>
-    <lastmod>2024-12-26T13:13:32.256Z</lastmod>
+    <loc>https://CarlosReyCastro.github.io/blog/second-post/index.html</loc>
+    <lastmod>2024-12-26T13:13:32.263Z</lastmod>
   </url>
 </urlset>

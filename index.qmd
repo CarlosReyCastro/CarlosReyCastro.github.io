@@ -29,14 +29,14 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 A summary about my research and academic activity.
 
-## Education
+## {{< fa graduation-cap >}} Education
 
 University of A Coruña, Spain:
 
 -   M.Sc. in Chemistry \| June 1999
 -   Ph.D. in Chemistry \| July 2004
 
-## Experience
+## {{< fa building-columns >}} Experience
 
 CSIC Institute of Materials Science, Barcelona, Spain:
 
