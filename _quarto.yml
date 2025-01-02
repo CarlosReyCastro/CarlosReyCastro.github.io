@@ -7,7 +7,11 @@ website:
   favicon: images/favicon.png
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   twitter-card: true # https://quarto.org/docs/websites/website-tools.html#twitter-card
-  page-footer: "Made with ❤ and Quarto"
+  page-footer: |
+    © 2025 by Carlos Rey-Castro. The content of this website is licensed under 
+    [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 
+    ![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png){width=75px}
+#    Made with ❤ and Quarto.
   navbar: 
     right:
       - text: Home
