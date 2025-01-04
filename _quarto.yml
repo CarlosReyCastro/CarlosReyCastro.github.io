@@ -3,25 +3,30 @@ project:
 
 website:
   site-url: https://CarlosReyCastro.github.io # URL of the website
-  title: "Home"
+  title: "CRC"
+  description: "Carlos Rey-Castro's personal website"
   favicon: images/favicon.png
+  back-to-top-navigation: true
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   twitter-card: true # https://quarto.org/docs/websites/website-tools.html#twitter-card
   page-footer: |
     © 2025 by Carlos Rey-Castro. The content of this website is licensed under 
     [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 
-    ![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png){width=75px}
+    ![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png){width=60px}
 #    Made with ❤ and Quarto.
-  navbar: 
-    right:
+  navbar:
+    left:
       - text: Home
         href: index.qmd
-      - CV.qmd
+        icon: house-fill
+      - text: CV
+        href: CV.qmd
+        icon: person-fill
       
 format:
   html:
     backgroundcolor: "#ffffff"
-    fontcolor: "darkslategray"
+#    fontcolor: "darkslategray"
     linkcolor: "rgb(221, 112, 105)"
     mainfont: "Source Sans Pro, sans-serif"
 #    mainfont: "Gill Sans, sans-serif"
