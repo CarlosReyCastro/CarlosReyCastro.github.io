@@ -34,10 +34,11 @@ milestones.
 You can access the website here: [Carlos Rey Castro - Personal
 Website](https://CarlosReyCastro.github.io/).
 
-If you’d like to run the site locally: 
+If you’d like to run the site locally:
+
 1. Clone this repository:
-```bash git clone
-<https://github.com/CarlosReyCastro/CarlosReyCastro.github.io.git>
+```bash 
+git clone https://github.com/CarlosReyCastro/CarlosReyCastro.github.io.git
 ```
 2. Install Quarto (if not already installed): [Installation Guide](https://quarto.org/docs/get-started/)
 3. Serve the website locally:
@@ -50,6 +51,7 @@ quarto preview
 📄 License
 
 The content and images in this repository are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1).
+
 The website code is based on a template provided by Posit and follows their respective licensing terms.
 
 ------------------------------------------------------------------------
