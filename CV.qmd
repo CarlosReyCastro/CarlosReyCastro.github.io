@@ -1,5 +1,29 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    linkcolor: "rgb(221, 112, 105)"
 ---
 
 {{< lipsum 1 >}}
+
+## {{< fa graduation-cap >}} Education
+
+University of A Coruña, Spain:
+
+-   M.Sc. in Chemistry \| June 1999
+-   Ph.D. in Chemistry \| July 2004
+
+## {{< fa building-columns >}} Experience
+
+CSIC Institute of Materials Science, Barcelona, Spain:
+
+-   Postdoc researcher \| April 2005 - Aug 2006
+
+University of Lleida, Spain:
+
+-   Lecturer \| Sept 2006 - July 2011
+-   Associate Professor \| Aug 2011 - Sept 2021
+-   Full Professor \| Oct 2021 - present

@@ -3,7 +3,7 @@ project:
 
 website:
   site-url: https://CarlosReyCastro.github.io # URL of the website
-  title: "CRC"
+  title: "C. Rey-Castro"
   description: "Carlos Rey-Castro's personal website"
   favicon: images/favicon.png
   back-to-top-navigation: true
