@@ -2,9 +2,23 @@
   {
     "objectID": "CV.html",
     "href": "CV.html",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\n\n\n Back to top"
+    "text": "Maecenas turpis velit, ultricies non elementum vel, luctus nec nunc. Nulla a diam interdum, faucibus sapien viverra, finibus metus. Donec non tortor diam. In ut elit aliquet, bibendum sem et, aliquam tortor. Donec congue, sem at rhoncus ultrices, nunc augue cursus erat, quis porttitor mauris libero ut ex. Nullam quis leo urna. Donec faucibus ligula eget pellentesque interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rhoncus interdum erat ut ultricies. Aenean tempus ex non elit suscipit, quis dignissim enim efficitur. Proin laoreet enim massa, vitae laoreet nulla mollis quis."
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Curriculum Vitae",
+    "section": " Education",
+    "text": "Education\nUniversity of A Coruña, Spain:\n\nM.Sc. in Chemistry | June 1999\nPh.D. in Chemistry | July 2004"
+  },
+  {
+    "objectID": "CV.html#experience",
+    "href": "CV.html#experience",
+    "title": "Curriculum Vitae",
+    "section": " Experience",
+    "text": "Experience\nCSIC Institute of Materials Science, Barcelona, Spain:\n\nPostdoc researcher | April 2005 - Aug 2006\n\nUniversity of Lleida, Spain:\n\nLecturer | Sept 2006 - July 2011\nAssociate Professor | Aug 2011 - Sept 2021\nFull Professor | Oct 2021 - present"
   },
   {
     "objectID": "blog/first-post/index.html",
@@ -18,21 +32,14 @@
     "href": "index.html",
     "title": "Carlos Rey-Castro",
     "section": "",
-    "text": "Maecenas turpis velit, ultricies non elementum vel, luctus nec nunc. Nulla a diam interdum, faucibus sapien viverra, finibus metus. Donec non tortor diam. In ut elit aliquet, bibendum sem et, aliquam tortor. Donec congue, sem at rhoncus ultrices, nunc augue cursus erat, quis porttitor mauris libero ut ex. Nullam quis leo urna. Donec faucibus ligula eget pellentesque interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rhoncus interdum erat ut ultricies. Aenean tempus ex non elit suscipit, quis dignissim enim efficitur. Proin laoreet enim massa, vitae laoreet nulla mollis quis.\nA summary about my research and academic activity."
+    "text": "Welcome to my personal website. Here you will find an overview of my research and academic activities."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
     "title": "Carlos Rey-Castro",
-    "section": " Education",
-    "text": "Education\nUniversity of A Coruña, Spain:\n\nM.Sc. in Chemistry | June 1999\nPh.D. in Chemistry | July 2004"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Carlos Rey-Castro",
-    "section": " Experience",
-    "text": "Experience\nCSIC Institute of Materials Science, Barcelona, Spain:\n\nPostdoc researcher | April 2005 - Aug 2006\n\nUniversity of Lleida, Spain:\n\nLecturer | Sept 2006 - July 2011\nAssociate Professor | Aug 2011 - Sept 2021\nFull Professor | Oct 2021 - present"
+    "section": "Contact",
+    "text": "Contact\n Department of Chemistry, Physics, Environmental and Soil Sciences | ETSEAFiV | University of Lleida\n c/ Rovira Roure 191 | 25198 Lleida | Spain\n +34 973 70 2838\n\n\n   @CarlosReyCastro\n @crey.bsky.social"
   },
   {
     "objectID": "projects/index.html",
