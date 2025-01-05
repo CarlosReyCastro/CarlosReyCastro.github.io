@@ -12,13 +12,13 @@ about: # https://quarto.org/docs/websites/website-about.html
     - icon: github
       # text: GitHub
       href: https://github.com/CarlosReyCastro
-    - icon: linkedin 
-      # text: LinkedIn
-      href: https://www.linkedin.com/in/carlos-rey-castro/
+    # - icon: linkedin 
+    #   # text: LinkedIn
+    #   href: https://www.linkedin.com/in/carlos-rey-castro/
     - text: "{{< ai google-scholar >}}"
       href: https://scholar.google.es/citations?user=_vPuaugAAAAJ&hl=en
-    - text: "{{< ai researchgate >}}"
-      href: https://www.researchgate.net/profile/Carlos-Rey-Castro
+    # - text: "{{< ai researchgate >}}"
+    #   href: https://www.researchgate.net/profile/Carlos-Rey-Castro
     - text: "{{< ai clarivate >}}"
       href: https://www.webofscience.com/wos/author/record/E-9647-2010
     - text: "{{< ai scopus >}}"
@@ -28,7 +28,6 @@ about: # https://quarto.org/docs/websites/website-about.html
 Welcome to my personal website. Here you will find an overview of my research and academic activities.
 
 ## Contact
-
 
 {{< fa building-columns >}} Department of Chemistry, Physics, Environmental and Soil Sciences \| ETSEAFiV \| University of Lleida
 
@@ -43,6 +42,13 @@ var linktext = username + '@' + hostname;
 document.write('<a href="' + 'mail' + 'to:' + linktext + '">' + 'email address at UdL' + '</a>');
 </script>
 <br> <!-- Line break added here -->
-<i class="bi bi-twitter-x"></i> [@CarlosReyCastro](https://x.com/CarlosReyCastro)
+{{< fa users >}} Follow me on: &nbsp;&nbsp;&nbsp;
+[<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/carlos-rey-castro/) | 
+[<i class="ai ai-researchgate ai-2x"></i>](https://www.researchgate.net/profile/Carlos-Rey-Castro) |
+[<i class="bi bi-twitter-x"></i>](https://x.com/CarlosReyCastro) | 
+[<i class="fa-brands fa-bluesky"></i>](https://bsky.app/profile/crey.bsky.social)
 
-<i class="fa-brands fa-bluesky"></i> [@crey.bsky.social](https://bsky.app/profile/crey.bsky.social)
+<!-- [LinkedIn](https://www.linkedin.com/in/carlos-rey-castro/)    -->
+<!-- [Research Gate](https://www.researchgate.net/profile/Carlos-Rey-Castro)   -->
+<!-- [@CarlosReyCastro](https://x.com/CarlosReyCastro)   -->
+<!-- [@crey.bsky.social](https://bsky.app/profile/crey.bsky.social) -->
