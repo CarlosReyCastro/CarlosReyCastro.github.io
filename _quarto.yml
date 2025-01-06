@@ -19,7 +19,7 @@ website:
       - text: Home
         href: index.qmd
         icon: house-fill
-      - text: CV
+      - text: About me
         href: CV.qmd
         icon: person-fill
       

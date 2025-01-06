@@ -42,7 +42,7 @@ var linktext = username + '@' + hostname;
 document.write('<a href="' + 'mail' + 'to:' + linktext + '">' + 'email address at UdL' + '</a>');
 </script>
 <br> <!-- Line break added here -->
-{{< fa users >}} Follow me on: &nbsp;&nbsp;&nbsp;
+{{< fa users >}} Follow me on: &nbsp;&nbsp;
 [<i class="ai ai-researchgate ai-2x"></i>](https://www.researchgate.net/profile/Carlos-Rey-Castro) |
 [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/carlos-rey-castro/) | 
 [<i class="bi bi-twitter-x"></i>](https://x.com/CarlosReyCastro) | 
