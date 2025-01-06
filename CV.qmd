@@ -5,9 +5,16 @@ format:
     toc: true
     toc-depth: 2
     linkcolor: "rgb(221, 112, 105)"
+bibliography: references.bib
+link-citations: true
+csl: apa-cv.csl
 ---
 
-{{< lipsum 1 >}}
+I am a Full Professor of Physical Chemistry at the University of Lleida (Spain) with a PhD in Chemistry from the University of A Coruña. My academic journey has included visiting researcher roles at the Centre for Ecology & Hydrology (UK), Università di Messina (Italy), University of Edinburgh (UK), and Universidad de Concepción (Chile), as well as a postdoctoral position at ICMAB-CSIC in Barcelona.
+
+My research focuses on the environmental behavior and transport of trace metals, organic colloids, microplastics and engineered nanomaterials in natural waters and soils. I am also interested in wastewater treatment methods using adsorption and ion exchange and the study of the thermodynamic properties of ionic liquids, polyelectrolytes, and salt solutions. Currently, my work investigates how Natural Organic Matter (NOM) influences the bioavailability of trace elements and nutrients like phosphorus in waters and soils.
+
+In my lab, we use techniques such as *Diffusive Gradients in Thin Films* (DGT), *Absence of Gradients and Nernstian Equilibrium Stripping* (AGNES), alongside numerical simulations to model reaction-diffusion systems and competitive adsorption processes.
 
 ## {{< fa graduation-cap >}} Education
 
@@ -27,3 +34,19 @@ University of Lleida, Spain:
 -   Lecturer \| Sept 2006 - July 2011
 -   Associate Professor \| Aug 2011 - Sept 2021
 -   Full Professor \| Oct 2021 - present
+
+## {{< fa book >}} Publications
+
+Here is a list of my publications including journal articles and book chapters.
+
+
+
+:::{#refs}
+---
+nocite: |
+  @*
+---
+:::
+
+### Download Bibliography
+[Download my publications as a BibTeX file](./references.bib)
