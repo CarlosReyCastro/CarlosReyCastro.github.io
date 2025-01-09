@@ -37,9 +37,7 @@ University of Lleida, Spain:
 
 ## {{< fa book >}} Publications
 
-Here is a list of my publications including journal articles and book chapters.
-
-
+Here is a list of my publications including journal articles and book chapters. [Download it as a BibTeX file here](./references.bib)
 
 :::{#refs}
 ---
@@ -48,5 +46,3 @@ nocite: |
 ---
 :::
 
-### Download Bibliography
-[Download my publications as a BibTeX file](./references.bib)

@@ -25,7 +25,8 @@ website:
       
 format:
   html:
-    backgroundcolor: "#fffcef"
+#    backgroundcolor: "#fffcef"
+    backgroundcolor: "#f8f9fa"
 #    fontcolor: "darkslategray"
     linkcolor: "rgb(221, 112, 105)"
     mainfont: "Source Sans Pro, sans-serif"
