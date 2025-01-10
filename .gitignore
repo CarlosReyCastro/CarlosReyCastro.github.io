@@ -1,2 +1,27 @@
+# Archivos y carpetas de Quarto
 /.quarto/
+_site/
+
+# Archivos de RStudio
 .Rproj.user
+.Rhistory
+.RData
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.knit.md
+*.log
+*.aux
+*.toc
+*.out
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Cachés generales
+.cache/
