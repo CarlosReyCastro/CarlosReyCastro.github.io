@@ -27,16 +27,23 @@ twitter-card:
 # https://carlosreycastro.github.io/communications/ecis2026/
 ---
 
+<a href="https://eventos.ugr.es/ecis2026/" target="_blank" rel="noopener">
+<img src="ecis-logo.png" alt="ECIS — European Colloid and Interface Society"
+     style="float:right;width:220px;max-width:45%;margin:0 0 1rem 1rem;">
+</a>
+
 ::: {.callout-note appearance="simple" icon=false}
 **Conference** · ECIS 2026 — 40th Conference of the European Colloid & Interface Society
 **Location** · Granada, Spain
 **Dates** · 6–11 September 2026
-**Contribution** · Poster
+**Contribution** · Poster · Topic 7 – P08
 :::
 
 <a class="btn btn-primary btn-lg" href="poster-rey-castro-ecis2026.pdf" role="button" download="Rey-Castro_ECIS2026_poster.pdf">
 <i class="bi bi-file-earmark-pdf"></i>&nbsp; Download poster (PDF)
 </a>
+
+Official one-page abstract in the [ECIS 2026 programme](https://eventos.ugr.es/ecis2026/wp-content/uploads/sites/29/programa-abs/T7-P08_ecis2026.pdf).
 
 <!-- Optional inline preview:
 <iframe src="poster-rey-castro-ecis2026.pdf" width="100%" height="600" style="border:1px solid #ddd;border-radius:6px;margin-top:1rem;"></iframe>
