@@ -43,7 +43,7 @@ twitter-card:
 <i class="bi bi-file-earmark-pdf"></i>&nbsp; Download poster (PDF)
 </a>
 
-Official one-page abstract in the [ECIS 2026 programme](https://eventos.ugr.es/ecis2026/wp-content/uploads/sites/29/programa-abs/T7-P08_ecis2026.pdf).
+Official one-page abstract in the [ECIS 2026 programme](https://eventos.ugr.es/ecis2026/wp-content/uploads/sites/29/programa-abs/T7-P08_ecis2026.pdf) ([local copy](abstract-ecis2026-T7-P08.pdf)).
 
 <!-- Optional inline preview:
 <iframe src="poster-rey-castro-ecis2026.pdf" width="100%" height="600" style="border:1px solid #ddd;border-radius:6px;margin-top:1rem;"></iframe>
