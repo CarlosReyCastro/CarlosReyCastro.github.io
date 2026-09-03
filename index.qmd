@@ -1,11 +1,12 @@
 ---
 title: "Carlos Rey-Castro"
 subtitle: "Environmental & Physical Chemist"
-# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: images/profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
-  image-shape: round
+  image-shape: rounded
+  image-alt: "Portrait picture of Carlos Rey-Castro"
+  image-width: 250px
   links:
     - text: "{{< ai orcid >}}"
       href: https://orcid.org/0000-0002-9286-4206
@@ -39,10 +40,12 @@ Welcome to my personal website. Here you will find an overview of my research an
 var username = 'carlos.rey';
 var hostname = 'udl.cat';
 var linktext = username + '@' + hostname;
-document.write('<a href="' + 'mail' + 'to:' + linktext + '">' + 'email address at UdL' + '</a>');
+document.write('<a href="' + 'mail' + 'to:' + linktext + '">' + 'Click here to email me' + '</a>');
 </script>
-<br> <!-- Line break added here -->
-{{< fa users >}} Follow me on &nbsp;
+
+## Follow me on
+
+
 [<i class="ai ai-researchgate ai-2x"></i>](https://www.researchgate.net/profile/Carlos-Rey-Castro) |
 [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/carlos-rey-castro/) | 
 [<i class="bi bi-twitter-x"></i>](https://x.com/CarlosReyCastro) | 
