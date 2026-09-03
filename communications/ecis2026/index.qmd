@@ -12,11 +12,17 @@ author:
 date: 2026-09-06
 categories: [Poster, ECIS 2026]
 description: >
-  Poster presented at ECIS 2026: a model-independent description of
+  Poster presented at ECIS 2026 (Granada): a model-independent description of
   multicomponent adsorption to natural organic matter from the statistics
   (mean and covariance) of the binding affinity spectrum.
 image: poster-card.png
-image-alt: "First page of the ECIS 2026 poster: Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics"
+image-alt: "Header of the ECIS 2026 poster by Rey-Castro et al."
+open-graph:
+  title: "ECIS 2026 poster — affinity-spectrum statistics"
+  description: "Multicomponent adsorption to natural organic matter from affinity-spectrum statistics. Poster at ECIS 2026, Granada."
+twitter-card:
+  title: "ECIS 2026 poster — affinity-spectrum statistics"
+  description: "Multicomponent adsorption to natural organic matter from affinity-spectrum statistics. Poster at ECIS 2026, Granada."
 # The permanent URL encoded in the QR code below:
 # https://carlosreycastro.github.io/communications/ecis2026/
 ---
