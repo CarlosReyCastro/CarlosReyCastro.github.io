@@ -1,0 +1,25 @@
+---
+title: "Communications"
+subtitle: "Conference contributions — talks & posters"
+listing:
+  id: communications-listing
+  contents:
+    - "*/index.qmd"
+  type: table
+  fields: [date, title, categories]
+  field-display-names:
+    title: "Title"
+    date: "Date"
+    categories: "Type / venue"
+  sort: "date desc"
+  date-format: "MMM YYYY"
+  filter-ui: false
+  sort-ui: false
+  page-size: 50
+---
+
+Selected contributions to scientific conferences. Each entry has its own page
+with the abstract, a downloadable PDF, and a QR code.
+
+::: {#communications-listing}
+:::

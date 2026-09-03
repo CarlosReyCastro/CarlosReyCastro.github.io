@@ -1,0 +1,16 @@
+# Normalize line endings across machines (OneDrive/Windows sync writes CRLF).
+# Store text as LF in the repo and check it out as LF everywhere.
+* text=auto eol=lf
+
+# Keep binary assets untouched (never apply EOL/diff filters).
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.pdf  binary
+*.woff  binary
+*.woff2 binary
+*.ttf  binary
+*.otf  binary
+*.eot  binary

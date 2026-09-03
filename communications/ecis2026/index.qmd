@@ -1,0 +1,115 @@
+---
+title: "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics"
+subtitle: "Poster · ECIS 2026 — 40th Conference of the European Colloid & Interface Society"
+author:
+  - Carlos Rey-Castro
+  - Pablo M. Blanco
+  - Calin David
+  - Jaume Puy
+  - Pablo Lodeiro
+  - Francesc Mas
+  - Josep L. Garcés
+date: 2026-09-06
+categories: [Poster, ECIS 2026]
+description: >
+  Poster presented at ECIS 2026: a model-independent description of
+  multicomponent adsorption to natural organic matter from the statistics
+  (mean and covariance) of the binding affinity spectrum.
+image: qr-ecis2026.png
+image-alt: "QR code linking to this page"
+# The permanent URL encoded in the QR code below:
+# https://carlosreycastro.github.io/communications/ecis2026/
+---
+
+::: {.callout-note appearance="simple" icon=false}
+**Conference** · ECIS 2026 — 40th Conference of the European Colloid & Interface Society
+**Location** · Granada, Spain
+**Dates** · 6–11 September 2026
+**Contribution** · Poster
+:::
+
+<a class="btn btn-primary btn-lg" href="poster-rey-castro-ecis2026.pdf" role="button" download="Rey-Castro_ECIS2026_poster.pdf">
+<i class="bi bi-file-earmark-pdf"></i>&nbsp; Download poster (PDF)
+</a>
+
+<!-- Optional inline preview:
+<iframe src="poster-rey-castro-ecis2026.pdf" width="100%" height="600" style="border:1px solid #ddd;border-radius:6px;margin-top:1rem;"></iframe>
+-->
+
+## Summary
+
+Multi-cation adsorption to natural organic matter can be described by an
+*affinity spectrum* — a density of binding free energies over all sites — that
+shows both intrinsic and electrostatically induced heterogeneity. Using
+multicomponent Gaussian and Frumkin spectra, together with semi-grand canonical
+Monte Carlo simulations of randomly distributed carboxylic and phenolic sites,
+the poster shows that:
+
+- The lowest cumulants of the affinity spectrum (its mean and covariance matrix)
+  capture most of the information contained in the binding isotherms, suggesting
+  a model-independent way to standardize experimental binding data.
+- The Frumkin isotherm reproduces the multicomponent Monte Carlo simulations for
+  both intrinsic and electrostatic heterogeneity. Its underlying affinity
+  spectrum has a well-defined mean and covariance and, unlike the Gaussian
+  model, does not require the numerical evaluation of multiple integrals.
+
+## Authors
+
+Carlos Rey-Castro^1,\*^, Pablo M. Blanco^1^, Calin David^1^, Jaume Puy^1^,
+Pablo Lodeiro^1^, Francesc Mas^2^, Josep L. Garcés^1^
+
+^1^ Department of Chemistry, Physics and Environmental and Soil Sciences &
+AGROTECNIO, Universitat de Lleida, Spain
+^2^ Department of Materials Science and Physical Chemistry & IQTC, Universitat de
+Barcelona, Spain
+
+^\*^ Corresponding author: <carlos.rey@udl.cat>
+
+## Scan to open this page
+
+![QR code linking to <https://carlosreycastro.github.io/communications/ecis2026/>](qr-ecis2026.svg){width=220px fig-alt="QR code linking to this page"}
+
+Point the QR code at this page (not the raw PDF) so the printed poster keeps
+working even if the file is later updated.
+
+```{r}
+#| eval: false
+#| code-summary: "Reproduce the QR code (R)"
+# install.packages("qrcode")
+library(qrcode)
+qr <- qr_code(
+  "https://carlosreycastro.github.io/communications/ecis2026/",
+  ecl = "H"  # 30% error correction — robust for print, allows a small logo
+)
+# quiet_zone = 4 keeps the mandatory 4-module light margin;
+# background = "white" bakes in a solid white backing (needed over a coloured poster)
+generate_svg(qr, "qr-ecis2026.svg", size = 300, quiet_zone = 4,
+             foreground = "black", background = "white")
+```
+
+## Related work
+
+- Gledhill, M., Gosnell, K., Humphreys, M. P., Delaigue, L., Helle, N., Zhu, K.,
+  Lodeiro, P., Rey-Castro, C., & Achterberg, E. P. (2026). *Nature
+  Communications*, 17, 3533.
+- Lodeiro, P., Rey-Castro, C., David, C., Humphreys, M. P., & Gledhill, M.
+  (2023). *Environmental Science & Technology*, 57(50), 21136–21144.
+
+## How to cite
+
+> Rey-Castro, C., Blanco, P. M., David, C., Puy, J., Lodeiro, P., Mas, F., &
+> Garcés, J. L. (2026). *Model-independent description of multicomponent
+> adsorption from affinity spectrum statistics* [Poster]. ECIS 2026 — 40th
+> Conference of the European Colloid & Interface Society, Granada, Spain,
+> 6–11 September 2026.
+
+## Funding
+
+Funded by MCIN-MICIU/AEI/10.13039/501100011033/FEDER, EU, through grants
+PID2022-140312NB-C21 and PID2024-156219NB-C21.
+
+## License
+
+© 2026 Carlos Rey-Castro. Shared under
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/), the same
+licence as the rest of this website.

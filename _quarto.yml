@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "communications/**/*.pdf"
 
 website:
   site-url: https://CarlosReyCastro.github.io # URL of the website
@@ -22,6 +24,9 @@ website:
       - text: About me
         href: CV.qmd
         icon: person-fill
+      - text: Communications
+        href: communications/index.qmd
+        icon: easel-fill
       
 format:
   html:
