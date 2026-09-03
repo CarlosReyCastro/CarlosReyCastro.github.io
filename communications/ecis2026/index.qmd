@@ -97,8 +97,10 @@ Reproduce the QR code (R, package "qrcode"):
 - Gledhill, M., Gosnell, K., Humphreys, M. P., Delaigue, L., Helle, N., Zhu, K.,
   Lodeiro, P., Rey-Castro, C., & Achterberg, E. P. (2026). *Nature
   Communications*, 17, 3533.
+  <https://doi.org/10.1038/s41467-026-72070-y>
 - Lodeiro, P., Rey-Castro, C., David, C., Humphreys, M. P., & Gledhill, M.
   (2023). *Environmental Science & Technology*, 57(50), 21136–21144.
+  <https://doi.org/10.1021/acs.est.3c01810>
 
 ## How to cite
 
