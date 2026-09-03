@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/communications/index.html",
+    "items": [
+      "/communications/ecis2026/index.html"
+    ]
+  },
+  {
     "listing": "/projects/index.html",
     "items": []
   }

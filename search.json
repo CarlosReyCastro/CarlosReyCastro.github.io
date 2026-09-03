@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "communications/index.html",
+    "href": "communications/index.html",
+    "title": "Communications",
+    "section": "",
+    "text": "Selected contributions to scientific conferences. Each entry has its own page with the abstract, a downloadable PDF, and a QR code.\n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nType / venue\n\n\n\n\n\n\n\n\nSep 2026\n\n\nModel-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics\n\n\nPoster, ECIS 2026\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "About me",
@@ -46,21 +53,14 @@
     "href": "index.html#contact",
     "title": "Carlos Rey-Castro",
     "section": "Contact",
-    "text": "Contact\n Department of Chemistry, Physics, Environmental and Soil Sciences | ETSEAFiV | University of Lleida\n c/ Rovira Roure 191 | 25198 Lleida | Spain\n +34 973 70 2838"
-  },
-  {
-    "objectID": "index.html#follow-me-on",
-    "href": "index.html#follow-me-on",
-    "title": "Carlos Rey-Castro",
-    "section": "Follow me on",
-    "text": "Follow me on\n |  |  |  |"
+    "text": "Contact\n Department of Chemistry, Physics, Environmental and Soil Sciences | ETSEAFiV | University of Lleida\n c/ Rovira Roure 191 | 25198 Lleida | Spain\n +34 973 70 2838\n\n\n   Follow me on    |  |  |  |"
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\n\nMachine Learning\n\n\nClustering\n\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\n\nData Visualization\n\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\nMachine Learning\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\nMachine Learning\n\nClustering\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\nData Visualization\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "blog/third-post/index.html",
@@ -75,5 +75,61 @@
     "title": "Second Post",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "communications/ecis2026/index.html",
+    "href": "communications/ecis2026/index.html",
+    "title": "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics",
+    "section": "",
+    "text": "Conference · ECIS 2026 — 40th Conference of the European Colloid & Interface Society Location · Granada, Spain Dates · 6–11 September 2026 Contribution · Poster\nDownload poster (PDF)"
+  },
+  {
+    "objectID": "communications/ecis2026/index.html#summary",
+    "href": "communications/ecis2026/index.html#summary",
+    "title": "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics",
+    "section": "Summary",
+    "text": "Summary\nMulti-cation adsorption to natural organic matter can be described by an affinity spectrum — a density of binding free energies over all sites — that shows both intrinsic and electrostatically induced heterogeneity. Using multicomponent Gaussian and Frumkin spectra, together with semi-grand canonical Monte Carlo simulations of randomly distributed carboxylic and phenolic sites, the poster shows that:\n\nThe lowest cumulants of the affinity spectrum (its mean and covariance matrix) capture most of the information contained in the binding isotherms, suggesting a model-independent way to standardize experimental binding data.\nThe Frumkin isotherm reproduces the multicomponent Monte Carlo simulations for both intrinsic and electrostatic heterogeneity. Its underlying affinity spectrum has a well-defined mean and covariance and, unlike the Gaussian model, does not require the numerical evaluation of multiple integrals."
+  },
+  {
+    "objectID": "communications/ecis2026/index.html#authors",
+    "href": "communications/ecis2026/index.html#authors",
+    "title": "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics",
+    "section": "Authors",
+    "text": "Authors\nCarlos Rey-Castro1,*, Pablo M. Blanco1, Calin David1, Jaume Puy1, Pablo Lodeiro1, Francesc Mas2, Josep L. Garcés1\n1 Department of Chemistry, Physics and Environmental and Soil Sciences & AGROTECNIO, Universitat de Lleida, Spain 2 Department of Materials Science and Physical Chemistry & IQTC, Universitat de Barcelona, Spain\n* Corresponding author: carlos.rey@udl.cat"
+  },
+  {
+    "objectID": "communications/ecis2026/index.html#scan-to-open-this-page",
+    "href": "communications/ecis2026/index.html#scan-to-open-this-page",
+    "title": "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics",
+    "section": "Scan to open this page",
+    "text": "Scan to open this page\n\n\n\nQR code linking to https://carlosreycastro.github.io/communications/ecis2026/\n\n\nPoint the QR code at this page (not the raw PDF) so the printed poster keeps working even if the file is later updated.\n\n# install.packages(\"qrcode\")\nlibrary(qrcode)\nqr &lt;- qr_code(\n  \"https://carlosreycastro.github.io/communications/ecis2026/\",\n  ecl = \"H\"  # 30% error correction — robust for print, allows a small logo\n)\n# quiet_zone = 4 keeps the mandatory 4-module light margin;\n# background = \"white\" bakes in a solid white backing (needed over a coloured poster)\ngenerate_svg(qr, \"qr-ecis2026.svg\", size = 300, quiet_zone = 4,\n             foreground = \"black\", background = \"white\")"
+  },
+  {
+    "objectID": "communications/ecis2026/index.html#related-work",
+    "href": "communications/ecis2026/index.html#related-work",
+    "title": "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics",
+    "section": "Related work",
+    "text": "Related work\n\nGledhill, M., Gosnell, K., Humphreys, M. P., Delaigue, L., Helle, N., Zhu, K., Lodeiro, P., Rey-Castro, C., & Achterberg, E. P. (2026). Nature Communications, 17, 3533.\nLodeiro, P., Rey-Castro, C., David, C., Humphreys, M. P., & Gledhill, M. (2023). Environmental Science & Technology, 57(50), 21136–21144."
+  },
+  {
+    "objectID": "communications/ecis2026/index.html#how-to-cite",
+    "href": "communications/ecis2026/index.html#how-to-cite",
+    "title": "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics",
+    "section": "How to cite",
+    "text": "How to cite\n\nRey-Castro, C., Blanco, P. M., David, C., Puy, J., Lodeiro, P., Mas, F., & Garcés, J. L. (2026). Model-independent description of multicomponent adsorption from affinity spectrum statistics [Poster]. ECIS 2026 — 40th Conference of the European Colloid & Interface Society, Granada, Spain, 6–11 September 2026."
+  },
+  {
+    "objectID": "communications/ecis2026/index.html#funding",
+    "href": "communications/ecis2026/index.html#funding",
+    "title": "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics",
+    "section": "Funding",
+    "text": "Funding\nFunded by MCIN-MICIU/AEI/10.13039/501100011033/FEDER, EU, through grants PID2022-140312NB-C21 and PID2024-156219NB-C21."
+  },
+  {
+    "objectID": "communications/ecis2026/index.html#license",
+    "href": "communications/ecis2026/index.html#license",
+    "title": "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics",
+    "section": "License",
+    "text": "License\n© 2026 Carlos Rey-Castro. Shared under CC BY-NC-ND 4.0, the same licence as the rest of this website."
   }
 ]

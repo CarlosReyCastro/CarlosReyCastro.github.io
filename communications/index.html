@@ -6,11 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Alicia">
-<meta name="dcterms.date" content="2021-05-22">
-<meta name="description" content="Post description for first post">
 
-<title>First Post – C. Rey-Castro</title>
+<title>Communications – C. Rey-Castro</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,25 +23,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../images/favicon.png" rel="icon" type="image/png">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-c92772c5bb63b8a9c111f5fe24d535c2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/favicon.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-c92772c5bb63b8a9c111f5fe24d535c2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,16 +71,72 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-communications-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<meta property="og:title" content="First Post – C. Rey-Castro">
-<meta property="og:description" content="Post description for first post">
-<meta property="og:image" content="https://CarlosReyCastro.github.io/blog/first-post/cover.jpg">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-communications-listing'] = new List('listing-communications-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Communications – C. Rey-Castro">
+<meta property="og:description" content="Conference contributions — talks &amp; posters">
 <meta property="og:site_name" content="C. Rey-Castro">
-<meta name="twitter:title" content="First Post – C. Rey-Castro">
-<meta name="twitter:description" content="Post description for first post">
-<meta name="twitter:image" content="https://CarlosReyCastro.github.io/blog/first-post/cover.jpg">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Communications – C. Rey-Castro">
+<meta name="twitter:description" content="Conference contributions — talks &amp; posters">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -91,9 +146,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">C. Rey-Castro</span>
     </a>
   </div>
@@ -104,17 +159,17 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> <i class="bi bi-house-fill" role="img">
+    <a class="nav-link" href="../index.html"> <i class="bi bi-house-fill" role="img">
 </i> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../CV.html"> <i class="bi bi-person-fill" role="img">
+    <a class="nav-link" href="../CV.html"> <i class="bi bi-person-fill" role="img">
 </i> 
 <span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../communications/index.html"> <i class="bi bi-easel-fill" role="img">
+    <a class="nav-link active" href="../communications/index.html" aria-current="page"> <i class="bi bi-easel-fill" role="img">
 </i> 
 <span class="menu-text">Communications</span></a>
   </li>  
@@ -135,35 +190,15 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">First Post</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Science</div>
-    <div class="quarto-category">Technology</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    Post description for first post
-  </div>
+<h1 class="title">Communications</h1>
+<p class="subtitle lead">Conference contributions — talks &amp; posters</p>
 </div>
+
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Alicia </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">May 22, 2021</p>
-    </div>
-  </div>
   
     
   </div>
@@ -173,9 +208,46 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.</p>
-<p>Velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae.</p>
+<p>Selected contributions to scientific conferences. Each entry has its own page with the abstract, a downloadable PDF, and a QR code.</p>
+<div id="listing-communications-listing" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+Date
+</th>
+
+<th>
+Title
+</th>
+
+<th>
+Type / venue
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="UG9zdGVyJTJDRUNJUyUyMDIwMjY=" data-listing-date-sort="1788645600000" data-listing-file-modified-sort="1788422670661" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="452" data-listing-title-sort="Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 2026</span>
+</td>
+<td>
+<a href="../communications/ecis2026/index.html" class="title listing-title">Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics</a>
+</td>
+<td>
+<span class="listing-categories">Poster, ECIS 2026</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+
 
 
 
