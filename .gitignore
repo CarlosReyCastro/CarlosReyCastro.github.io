@@ -25,3 +25,4 @@ __pycache__/
 
 # Cachés generales
 .cache/
+**/*.quarto_ipynb
