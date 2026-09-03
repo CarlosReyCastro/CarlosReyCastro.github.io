@@ -53,7 +53,14 @@
     "href": "index.html#contact",
     "title": "Carlos Rey-Castro",
     "section": "Contact",
-    "text": "Contact\n Department of Chemistry, Physics, Environmental and Soil Sciences | ETSEAFiV | University of Lleida\n c/ Rovira Roure 191 | 25198 Lleida | Spain\n +34 973 70 2838\n\n\n   Follow me on    |  |  |  |"
+    "text": "Contact\n Department of Chemistry, Physics, Environmental and Soil Sciences | ETSEAFiV | University of Lleida\n c/ Rovira Roure 191 | 25198 Lleida | Spain\n +34 973 70 2838"
+  },
+  {
+    "objectID": "index.html#follow-me-on",
+    "href": "index.html#follow-me-on",
+    "title": "Carlos Rey-Castro",
+    "section": "Follow me on",
+    "text": "Follow me on\n |  |  |  |"
   },
   {
     "objectID": "projects/index.html",
@@ -102,7 +109,7 @@
     "href": "communications/ecis2026/index.html#scan-to-open-this-page",
     "title": "Model-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics",
     "section": "Scan to open this page",
-    "text": "Scan to open this page\n\n\n\nQR code linking to https://carlosreycastro.github.io/communications/ecis2026/\n\n\nPoint the QR code at this page (not the raw PDF) so the printed poster keeps working even if the file is later updated.\n\n# install.packages(\"qrcode\")\nlibrary(qrcode)\nqr &lt;- qr_code(\n  \"https://carlosreycastro.github.io/communications/ecis2026/\",\n  ecl = \"H\"  # 30% error correction — robust for print, allows a small logo\n)\n# quiet_zone = 4 keeps the mandatory 4-module light margin;\n# background = \"white\" bakes in a solid white backing (needed over a coloured poster)\ngenerate_svg(qr, \"qr-ecis2026.svg\", size = 300, quiet_zone = 4,\n             foreground = \"black\", background = \"white\")"
+    "text": "Scan to open this page\n\n\n\nQR code linking to https://carlosreycastro.github.io/communications/ecis2026/\n\n\nPoint the QR code at this page (not the raw PDF) so the printed poster keeps working even if the file is later updated."
   },
   {
     "objectID": "communications/ecis2026/index.html#related-work",
