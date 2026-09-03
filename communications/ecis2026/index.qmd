@@ -72,20 +72,18 @@ Barcelona, Spain
 Point the QR code at this page (not the raw PDF) so the printed poster keeps
 working even if the file is later updated.
 
-```{r}
-#| eval: false
-#| code-summary: "Reproduce the QR code (R)"
-# install.packages("qrcode")
-library(qrcode)
-qr <- qr_code(
-  "https://carlosreycastro.github.io/communications/ecis2026/",
-  ecl = "H"  # 30% error correction — robust for print, allows a small logo
-)
-# quiet_zone = 4 keeps the mandatory 4-module light margin;
-# background = "white" bakes in a solid white backing (needed over a coloured poster)
-generate_svg(qr, "qr-ecis2026.svg", size = 300, quiet_zone = 4,
-             foreground = "black", background = "white")
-```
+<!--
+Reproduce the QR code (R, package "qrcode"):
+
+  library(qrcode)
+  qr <- qr_code(
+    "https://carlosreycastro.github.io/communications/ecis2026/",
+    ecl = "H"          # 30% error correction — robust for print, allows a small logo
+  )
+  generate_svg(qr, "qr-ecis2026.svg", size = 300, quiet_zone = 4,
+               foreground = "black", background = "white")
+-->
+
 
 ## Related work
 
