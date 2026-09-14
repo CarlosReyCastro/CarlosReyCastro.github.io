@@ -1,0 +1,54 @@
+---
+title: "SACAT"
+subtitle: "Speciation and availability of contaminants and nutrients in waters and soils with advanced techniques"
+author:
+  - Carlos Rey-Castro
+date: 2023-09-01
+end_date: "Aug 2027"
+reference: "PID2022-140312NB-C21"
+categories: [Active, PID2022, AEI-funded, Environmental Chemistry]
+description: >
+  A coordinated project (2023-2027) combining AGNES and DGT speciation techniques to
+  study the availability of trace metals, phosphorus and emerging contaminants in
+  waters and soils. Funded by the Spanish State Research Agency (AEI), co-financed by
+  the European Union.
+image: images/miciu-cofinanciado-aei-card.png
+image-alt: "Logo of the Spanish Ministry of Science, Innovation and Universities (MICIU), the State Research Agency (AEI), and the European Union (co-financing)"
+---
+
+<a href="https://www.aei.gob.es/" target="_blank" rel="noopener">
+<img src="images/miciu-cofinanciado-aei-logo.png" alt="MICIU / Agencia Estatal de Investigación / Cofinanciado por la Unión Europea"
+     style="width:100%;max-width:480px;display:block;margin:0 0 1.5rem 0;">
+</a>
+
+::: {.callout-note appearance="simple" icon=false}
+**Status** · Active (extended)
+**Duration** · September 2023 -- August 2027 (originally 3 years, extended by 12 months)
+**Reference** · PID2022-140312NB-C21
+**Call** · Proyectos de Generación de Conocimiento (coordinated), Ministry of Science, Innovation and Universities (MICIU) / State Research Agency (AEI)
+**Principal Investigators** · Carlos Rey-Castro (UdL) & José Juan Galcerán Nogués (UdL)
+**Host institution** · University of Lleida
+:::
+
+## Summary
+
+SACAT is the University of Lleida node of the coordinated project **REACTANT**
+(*RevEaling wAter and soil status and quality: ConTAmination and
+bioavailabiliTy*). It combines two complementary speciation techniques --
+*Absence of Gradients and Nernstian Equilibrium Stripping* (AGNES) and
+*Diffusive Gradients in Thin Films* (DGT) -- with theoretical modelling to
+determine the speciation and availability of trace metals, phosphorus and
+other contaminants and nutrients in natural waters and soils.
+
+## Approach
+
+The project develops and applies AGNES for equilibrium metal speciation and
+DGT for dynamic speciation and monitoring, in both natural waters and soils,
+and combines the experimental results with theoretical modelling of the
+underlying transport and reaction processes. Work is coordinated with the
+partner node at the Universitat de Girona.
+
+## Funding
+
+Funded by MCIN-MICIU/AEI/10.13039/501100011033/FEDER, EU, grant
+PID2022-140312NB-C21.

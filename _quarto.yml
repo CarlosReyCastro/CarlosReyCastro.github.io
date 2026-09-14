@@ -24,6 +24,9 @@ website:
       - text: About me
         href: CV.qmd
         icon: person-fill
+      - text: Projects
+        href: projects/index.qmd
+        icon: kanban-fill
       - text: Communications
         href: communications/index.qmd
         icon: easel-fill

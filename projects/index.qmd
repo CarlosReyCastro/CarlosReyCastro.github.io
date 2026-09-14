@@ -1,7 +1,28 @@
 ---
-title: Projects
+title: "Projects"
+subtitle: "Active and recent research projects"
 listing:
-  contents: projects.yml
-  type: grid
-  max-description-length: 250
+  id: projects-listing
+  contents:
+    - "*/index.qmd"
+  type: table
+  fields: [image, title, subtitle, date, end_date, reference]
+  field-display-names:
+    image: "Logo"
+    title: "Project"
+    subtitle: "Name"
+    date: "Start"
+    end_date: "End"
+    reference: "Reference"
+  sort: "date desc"
+  date-format: "MMM YYYY"
+  filter-ui: false
+  sort-ui: false
+  page-size: 50
+  image-height: "60px"
 ---
+
+An overview of the research projects I am currently leading or collaborating on.
+
+::: {#projects-listing}
+:::
