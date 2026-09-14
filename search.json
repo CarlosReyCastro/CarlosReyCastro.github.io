@@ -21,6 +21,41 @@
     "text": "Selected contributions to scientific conferences. Each entry has its own page with the abstract, a downloadable PDF, and a QR code.\n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nType / venue\n\n\n\n\n\n\n\n\nSep 2026\n\n\nModel-Independent Description of Multicomponent Adsorption from Affinity Spectrum Statistics\n\n\nPoster, ECIS 2026\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
   },
   {
+    "objectID": "projects/wasabi/index.html#summary",
+    "href": "projects/wasabi/index.html#summary",
+    "title": "WASABI",
+    "section": "Summary",
+    "text": "Summary\nWASABI develops and integrates chemical speciation techniques with mechanistic modelling to better predict how trace metals and phosphorus behave, and become available to organisms, in waters and soils. The project combines two complementary electroanalytical and passive-sampling methods – Absence of Gradients and Nernstian Equilibrium Stripping (AGNES) and Diffusive Gradients in Thin Films (DGT) – with numerical simulations to build models that can be applied to real, complex environmental matrices such as wastewater and agricultural soils."
+  },
+  {
+    "objectID": "projects/wasabi/index.html#objectives",
+    "href": "projects/wasabi/index.html#objectives",
+    "title": "WASABI",
+    "section": "Objectives",
+    "text": "Objectives\n\nO1. Build a panel of representative model systems for the speciation of trace metals, dissolved organic matter (DOM), and phosphorus.\nO2. Advance AGNES-based methods for equilibrium speciation, including low-volume implementations.\nO3. Develop advanced DGT methods for assessing metal and phosphorus availability in waters.\nO4. Implement DGT/DET approaches to study metal and phosphorus dynamics in soils.\nO5. Integrate multiscale mechanistic models of dynamic speciation and chemical availability."
+  },
+  {
+    "objectID": "projects/wasabi/index.html#approach",
+    "href": "projects/wasabi/index.html#approach",
+    "title": "WASABI",
+    "section": "Approach",
+    "text": "Approach\nThe project combines experimental and computational work across five work packages: characterisation of model systems (isolation and characterisation of soil-derived organic matter, determination of equilibrium and kinetic constants), equilibrium speciation by AGNES, dynamic speciation by DGT in waters – including field validation at a municipal wastewater treatment plant in Lleida – DGT/DET applications in agricultural soils, and mechanistic modelling linking molecular simulations, affinity-spectrum analysis, and reaction-diffusion models."
+  },
+  {
+    "objectID": "projects/wasabi/index.html#collaborators",
+    "href": "projects/wasabi/index.html#collaborators",
+    "title": "WASABI",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nAmphos 21 Consulting, Spain\nUniversità di Messina, Italy\nVrije Universiteit Brussel, Belgium"
+  },
+  {
+    "objectID": "projects/wasabi/index.html#funding",
+    "href": "projects/wasabi/index.html#funding",
+    "title": "WASABI",
+    "section": "Funding",
+    "text": "Funding\nFunded by MICIU/AEI/10.13039/501100011033, grant PID2025-168467NB-I00."
+  },
+  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "About me",
@@ -74,7 +109,28 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\nMachine Learning\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\nMachine Learning\n\nClustering\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\nData Visualization\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "An overview of the research projects I am currently leading or collaborating on.\n\n\n\n\n\n\nLogo\n\n\n\nProject\n\n\n\nName\n\n\n\nStart\n\n\n\nEnd\n\n\n\nReference\n\n\n\n\n\n\n\n\n\n\n\nWASABI\n\n\nIntegrating WAter-Soil chemical speciation and AvailaBIlity modelling for smarter monitoring of nutrients and pollutants\n\n\nSep 2026\n\n\nAug 2029\n\n\nPID2025-168467NB-I00\n\n\n\n\n\n\n\n\n\nSACAT\n\n\nSpeciation and availability of contaminants and nutrients in waters and soils with advanced techniques\n\n\nSep 2023\n\n\nAug 2027\n\n\nPID2022-140312NB-C21\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/sacat/index.html#summary",
+    "href": "projects/sacat/index.html#summary",
+    "title": "SACAT",
+    "section": "Summary",
+    "text": "Summary\nSACAT is the University of Lleida node of the coordinated project REACTANT (RevEaling wAter and soil status and quality: ConTAmination and bioavailabiliTy). It combines two complementary speciation techniques – Absence of Gradients and Nernstian Equilibrium Stripping (AGNES) and Diffusive Gradients in Thin Films (DGT) – with theoretical modelling to determine the speciation and availability of trace metals, phosphorus and other contaminants and nutrients in natural waters and soils."
+  },
+  {
+    "objectID": "projects/sacat/index.html#approach",
+    "href": "projects/sacat/index.html#approach",
+    "title": "SACAT",
+    "section": "Approach",
+    "text": "Approach\nThe project develops and applies AGNES for equilibrium metal speciation and DGT for dynamic speciation and monitoring, in both natural waters and soils, and combines the experimental results with theoretical modelling of the underlying transport and reaction processes. Work is coordinated with the partner node at the Universitat de Girona."
+  },
+  {
+    "objectID": "projects/sacat/index.html#funding",
+    "href": "projects/sacat/index.html#funding",
+    "title": "SACAT",
+    "section": "Funding",
+    "text": "Funding\nFunded by MCIN-MICIU/AEI/10.13039/501100011033/FEDER, EU, grant PID2022-140312NB-C21."
   },
   {
     "objectID": "communications/ecis2026/index.html",

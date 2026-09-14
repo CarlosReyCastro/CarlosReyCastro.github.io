@@ -7,6 +7,9 @@
   },
   {
     "listing": "/projects/index.html",
-    "items": []
+    "items": [
+      "/projects/wasabi/index.html",
+      "/projects/sacat/index.html"
+    ]
   }
 ]
